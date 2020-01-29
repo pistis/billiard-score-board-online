@@ -1,4 +1,4 @@
-importScripts("/billiard-score-board-online/precache-manifest.bd3932852d645acc2fb81a952bbcf662.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/billiard-score-board-online/precache-manifest.2a7264e60541f4b1a42ca0d370ffcb34.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 if (workbox) {
   console.log(`Workbox is loaded`);
